@@ -13,10 +13,18 @@ monky!friday - Monky helps you gain that friday motivation
 
 monky!wide - Wide Monky joins VC
 
-monky!play - Monky joins VC and plays the track of your choice (as of 02/07/20, this may or may not work)
+monky!play (youtubelink) - Monky joins VC and plays the track of your choice (wip, no queue system in place)
 
 #Case Insensitive Commands
 
 activate trunk monkey - Monky sends the trunk monkey gif
 
 monky - monky makes monky noise
+
+# Credits
+
+Kate/Katherine - Bot's Author
+
+Sontles - Contributor + Icon Artist
+
+Mew - Contributor + Icon Artist
