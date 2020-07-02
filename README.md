@@ -11,6 +11,10 @@ monky!nofunny @ping(optional) - Monky teleports Shaq to your front screen so tha
 
 monky!friday - Monky helps you gain that friday motivation
 
+monky!wide - Wide Monky joins VC
+
+monky!play - Monky joins VC and plays the track of your choice (as of 02/07/20, this may or may not work)
+
 #Case Insensitive Commands
 
 activate trunk monkey - Monky sends the trunk monkey gif
