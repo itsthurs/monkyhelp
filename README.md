@@ -23,7 +23,7 @@ monky - monky makes monky noise
 
 # Credits
 
-Kate/Katherine - Bot's Author
+Mumky - Bot's Author
 
 Sontles - Contributor + Icon Artist
 
