@@ -15,6 +15,8 @@ monky!wide - Wide Monky joins VC
 
 monky!play (youtubelink) - Monky joins VC and plays the track of your choice (wip, no queue system in place)
 
+monky!howru - Monky replies with the quality of his day
+
 #Case Insensitive Commands
 
 activate trunk monkey - Monky sends the trunk monkey gif
