@@ -9,6 +9,8 @@ monky!poll - Gives you the link to the poll that allows you to give your opinion
 
 monky!nofunny @ping(optional) - Monky tells the meme poster, it is no funny.
 
+monky!whoasked - Monky tries to find who asked
+
 monky!friday - Monky helps you gain that friday motivation
 
 monky!wide - Wide Monky joins VC
