@@ -7,7 +7,7 @@ monky!help - Gives you the link to this help list
 
 monky!poll - Gives you the link to the poll that allows you to give your opinions on the monky bot
 
-monky!nofunny @ping(optional) - Monky teleports Shaq to your front screen so that Shaq can give you back the funny that was dropped
+monky!nofunny @ping(optional) - Monky tells the meme poster, it is no funny.
 
 monky!friday - Monky helps you gain that friday motivation
 
@@ -16,6 +16,8 @@ monky!wide - Wide Monky joins VC
 monky!play (youtubelink) - Monky joins VC and plays the track of your choice (wip, no queue system in place)
 
 monky!howru - Monky replies with the quality of his day
+
+monky!roll - Rolls a random number from 1-6
 
 #Case Insensitive Commands
 
