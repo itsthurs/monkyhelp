@@ -23,6 +23,8 @@ monky!howru - Monky replies with the quality of his day
 
 monky!roll - Rolls a random number from 1-6
 
+monky!sus - For when the imposter is sus!1111!!1!!!!
+
 #Case Insensitive Commands
 
 activate trunk monkey - Monky sends the trunk monkey gif
@@ -31,7 +33,7 @@ monky - monky makes monky noise
 
 # Credits
 
-Mumky - Bot's Author
+Thurs - Bot's Author
 
 Sontles - Contributor + Icon Artist
 
